@@ -1,4 +1,4 @@
-Malaya Kumar Pradhan - Machine Learning Portfolio
+### Malaya Kumar Pradhan - Machine Learning Portfolio
 Welcome to my portfolio of machine learning projects. This repository showcases my skills in data analysis, predictive modeling, and applying statistical learning techniques to solve real-world problems, with a particular focus on computational healthcare.
 
 Each project folder contains a detailed README.md explaining the objective, methodology, and findings, along with the source code in a Jupyter Notebook and the necessary data.
