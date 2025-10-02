@@ -48,6 +48,8 @@ The Random Forest Classifier significantly outperformed the other models, demons
 | **Random Forest Classifier** | 90.00%         |
 | **Decision Tree Classifier** | 87.00%         |
 
+![Confusion Matrix for Best Model](confusion_matrix.png) 
+
 The project successfully demonstrates that a mobile phone's price range can be accurately predicted from its specifications. The analysis confirms that RAM is the most critical factor influencing price, a finding that aligns with consumer and market intuition. The Random Forest model provides a reliable tool for this classification task.
 
 ### 5. How to Run This Project
