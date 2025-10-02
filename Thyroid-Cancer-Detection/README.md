@@ -37,6 +37,8 @@ All three models achieved very high accuracy, but the ensemble methods showed a 
 | **Random Forest Classifier** | 97.26%         |
 | **Decision Tree Classifier** | 97.26%         |
 
+![Confusion Matrix for Best Model](confusion_matrix.png)
+
 The results demonstrate the effectiveness of using advanced ensemble techniques like Gradient Boosting for medical diagnostic tasks. The high accuracy achieved suggests that this approach can serve as a reliable tool to support clinicians in diagnosing thyroid cancer.
 
 ### 5. How to Run This Project
