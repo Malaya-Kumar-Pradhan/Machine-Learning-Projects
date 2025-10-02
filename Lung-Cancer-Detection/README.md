@@ -40,6 +40,8 @@ The advanced ensemble models delivered exceptional performance, showcasing their
 | **CatBoost Classifier** | ~76.53% |
 | **XGBoost Classifier** | ~77.06% |
 
+![Confusion Matrix for Best Model](confusion_matrix.png)
+
 This project successfully demonstrates that by addressing data challenges like class imbalance and applying powerful, specialized algorithms like CatBoost and XGBoost, it is possible to build highly reliable models for lung cancer detection. The Voting Classifier further refines these predictions, providing a robust tool for supporting clinical decision-making.
 
 ### 5. How to Run This Project
