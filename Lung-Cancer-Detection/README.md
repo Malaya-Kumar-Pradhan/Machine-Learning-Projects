@@ -6,6 +6,15 @@ The goal of this project is to develop a high-accuracy predictive model for the 
 ### 2. Dataset
 The project utilizes a medical dataset containing patient attributes and lifestyle factors. The target variable, `LUNG_CANCER`, indicates a binary outcome of "YES" or "NO". A key challenge in the dataset was a significant class imbalance, which was addressed to ensure the model's reliability.
 
+The dataset used in this project is too large to be uploaded to GitHub. You can download it directly from the following link:
+
+**[Download the Lung Cancer Dataset from Google Drive](https://drive.google.com/file/d/1ViV1h_QbW8ZFS6DdeZ7Kssqln21PdPhu/view?usp=drive_link)**
+
+**Instructions:**
+1.  Download the file (`dataset_med.csv`).
+2.  Place it in a `data/` folder inside the project directory.
+3.  Ensure the file path in the Jupyter Notebook is updated to `data/dataset_med.csv`.
+
 ### 3. Methodology
 
 #### a. Data Preprocessing and Feature Engineering
