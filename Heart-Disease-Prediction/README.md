@@ -38,6 +38,8 @@ The performance of each model was calculated and compared. The Gradient Boosting
 | **Decision Tree Classifier** | 82.28%         |
 | **Random Forest Classifier** | 85.71%         |
 
+![Confusion Matrix for Best Model](confusion_matrix.png)
+
 ### 5. How to Run This Project
 1. **Clone the repository:**
 ```bash
