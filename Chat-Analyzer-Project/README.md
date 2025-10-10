@@ -11,3 +11,5 @@ To develop a Python tool capable of parsing, cleaning, and analyzing unstructure
 
 #### 3. Impact
 This project demonstrates the ability to handle and extract value from unstructured text data, a core skill in Natural Language Processing (NLP) and customer feedback analysis. The tool successfully transforms a messy text file into a structured dataset ready for quantitative analysis.
+
+![Chat Analyzer](ChatAnalyzer.png)
