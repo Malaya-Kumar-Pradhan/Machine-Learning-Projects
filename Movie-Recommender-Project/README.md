@@ -13,3 +13,5 @@ To build a content-based recommendation engine that suggests movies to users bas
 
 #### 3. Impact
 This project successfully implements a core feature found in modern content platforms. It showcases the ability to apply NLP techniques to build a system that can enhance user engagement by providing personalized content recommendations.
+
+![Movie Recommendation System](MovieRecommender.png)
