@@ -7,7 +7,6 @@ Each project folder contains a detailed README.md explaining the objective, meth
 
 | Project Title | Description | Key Technologies |
 |---|---|---|
-| **[Heart Disease Prediction](./Heart-Disease-Prediction/)** | A comparative study of classification algorithms (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting) for early-stage heart disease prediction. | Scikit-learn, Pandas, Matplotlib, Gradient Boosting |
 | **[Thyroid Cancer Detection](./Thyroid-Cancer-Detection/)** | Developed a high-accuracy classification model using Gradient Boosting to detect thyroid cancer from patient data. | Scikit-learn, Pandas, Gradient Boosting, Matplotlib |
 | **[Mobile Price Classification](./Mobile-Price-Prediction/)** | Built and evaluated various classification models to predict smartphone price ranges based on their technical specifications. | Scikit-learn, Pandas, Logistic Regression, Matplotlib |
 | **[Lung Cancer Detection](./Lung-Cancer-Detection/)** | Built a predictive model to classify lung cancer risk based on patient attributes, applying various classification algorithms for high diagnostic accuracy. | Scikit-learn, Pandas, Matplotlib, Seaborn, CatBoost, XGBoost, SMOTE|
